@@ -1,0 +1,39 @@
+.wrapper{
+    display: inline-block;
+    width: 70%;
+    margin: 0 auto;
+    margin-left: 15%;
+    background-color: lightgray;
+}
+
+.content-left img {
+    height: 300px;
+    width: 300px;
+}
+
+.nav {
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+}
+
+.nav h1 a {
+    color: inherit;
+}
+
+.maincontent {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.content-right {
+    display: inline-block;
+    width: 50%;
+    margin-left: 45px;
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+}

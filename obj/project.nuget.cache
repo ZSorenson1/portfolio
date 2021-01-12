@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjfHVC5vHO9gUADAVZV+J0n3OXUo3lE3rVrKTL0KJZjUiw+w57ChpE9vlEwg5H1lUnZNSavwOHOK30VfaEgpbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zach\\Documents\\CodingDojo\\csharp\\portfolio\\portfolio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zach\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
+    "C:\\Users\\Zach\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.9\\microsoft.netcore.app.host.win-x64.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
