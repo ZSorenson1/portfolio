@@ -1,39 +1,91 @@
+@font-face {
+    font-family: Rubik;
+    src: url(./font/rubik/Rubik[wght].ttf);
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(37, 37, 37);
+    color: #f9fafae5;
+    font-family: Rubik;
+    text-shadow: 1px 1px gray;
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
 .wrapper{
     display: inline-block;
     width: 70%;
+    height: 100%;
+    min-width: 750px;
+    min-height: 750px;
     margin: 0 auto;
     margin-left: 15%;
-    background-color: lightgray;
 }
 
-.content-left img {
-    height: 300px;
-    width: 300px;
+.wrapper h1 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.header {
+    background-color: #e686de;
+    border-radius: 25px;
 }
 
 .nav {
-    background-color: lightblue;
+    
     display: flex;
     justify-content: center;
 }
 
-.nav h1 a {
+.nav-button {
     color: inherit;
+    text-decoration: none;
+    padding: 1%;
+    border-radius: 5px;
 }
 
-.maincontent {
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-}
-
-.content-right {
-    display: inline-block;
-    width: 50%;
-    margin-left: 45px;
+.active {
+    background-color: rgb(128, 128, 128, 0.5);
+    text-decoration: underline;
 }
 
 .about {
     display: flex;
     justify-content: center;
+    flex-direction: column;
+}
+
+
+.about h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.about h3 {
+    background-color: rgb(128, 128, 128, 0.25);
+    padding: 3%;
+    border-radius: 25px;
+}
+
+
+.project {
+    margin: 2%;
+}
+
+.project img {
+    width: 25%;
+}
+
+.projectlist {
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    padding: 5px;
 }

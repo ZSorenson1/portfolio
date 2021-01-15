@@ -14405,6 +14405,11 @@
       "FilePath": "c:\\Users\\Zach\\Documents\\CodingDojo\\csharp\\portfolio\\Views\\Home\\Projects.cshtml",
       "TargetPath": "Views\\Home\\Projects.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Zach\\Documents\\CodingDojo\\csharp\\portfolio\\Views\\Home\\Home.cshtml",
+      "TargetPath": "Views\\Home\\Home.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
