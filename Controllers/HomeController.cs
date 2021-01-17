@@ -8,18 +8,5 @@ namespace portfolio
         {
             return View();
         }
-
-        [HttpGet("projects")]
-        public ViewResult Projects()
-        {
-            return View();
-        }
-
-        [HttpGet("contact")]
-        public ViewResult Contact()
-            {
-                return View();
-            }
-        
     }
 }

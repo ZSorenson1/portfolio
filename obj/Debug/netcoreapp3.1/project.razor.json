@@ -14392,23 +14392,8 @@
   "RootNamespace": "portfolio",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Zach\\Documents\\CodingDojo\\csharp\\portfolio\\Views\\Home\\Contact.cshtml",
-      "TargetPath": "Views\\Home\\Contact.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\Zach\\Documents\\CodingDojo\\csharp\\portfolio\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Zach\\Documents\\CodingDojo\\csharp\\portfolio\\Views\\Home\\Projects.cshtml",
-      "TargetPath": "Views\\Home\\Projects.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Zach\\Documents\\CodingDojo\\csharp\\portfolio\\Views\\Home\\Home.cshtml",
-      "TargetPath": "Views\\Home\\Home.cshtml",
       "FileKind": "mvc"
     }
   ],
